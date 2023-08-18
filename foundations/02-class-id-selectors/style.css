@@ -1,0 +1,19 @@
+.simple, .cool {
+    background-color: rgb(250, 157, 157);
+}
+
+.cool {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: transparent red;
+}
+
+#blue {
+    color: blue;
+}
+
+#green {
+    background-color: rgb(109, 233, 109);
+    font-weight: bold;
+    font-size: 18px;
+}
